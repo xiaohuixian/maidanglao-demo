@@ -1,0 +1,27 @@
+.activity {
+  background-color: darksalmon;
+  margin: 5px auto 5px auto;
+  display: inline-flex;
+  flex-wrap: wrap;
+}
+.home figure {
+  margin: 10px auto;
+  padding: 10px;
+  width: 200px;
+  height: 270px;
+}
+.home figure img {
+  width: 200px;
+  height: 200px;
+}
+
+.home .activity .one img {
+  border-radius: 10px;
+  width: 200px;
+  height: 270px;
+}
+.home figure figcaption {
+  background-color: burlywood;
+
+  height: 70px;
+}

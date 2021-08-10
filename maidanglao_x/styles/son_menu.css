@@ -1,0 +1,102 @@
+.son_menu figcaption {
+  text-align: center;
+}
+
+/*                甜品               */
+
+.son_menu #desserts {
+  margin: 40px;
+  border-radius: 20px;
+  background-color: cornsilk;
+  display: flex;
+  flex-wrap: wrap;
+}
+figure {
+  padding-left: 30px;
+  margin: 40px;
+}
+
+#desserts figure img {
+  width: 108px;
+  height: 108px;
+  border-radius: 5px;
+  box-shadow: darkmagenta 0 0 5px;
+}
+#desserts figure figcaption {
+  margin-top: 10px;
+  margin-left: 10px;
+  width: 80px;
+}
+
+/*                饮料               */
+.son_menu #drinks {
+  margin: 40px;
+  border-radius: 20px;
+  background-color: cornsilk;
+  display: flex;
+  flex-wrap: wrap;
+}
+#drinks figure {
+  padding-left: 30px;
+  margin: 40px;
+}
+
+#drinks figure img {
+  width: 108px;
+  height: 108px;
+  border-radius: 5px;
+  box-shadow: darkmagenta 0 0 5px;
+}
+#drinks figure figcaption {
+  margin-top: 10px;
+  margin-left: 10px;
+  width: 80px;
+}
+/*              小吃              */
+.son_menu #snacks {
+  margin: 40px;
+  border-radius: 20px;
+  background-color: cornsilk;
+  display: flex;
+  flex-wrap: wrap;
+}
+#snacks figure {
+  padding-left: 30px;
+  margin: 40px;
+}
+
+#snacks figure img {
+  width: 108px;
+  height: 108px;
+  border-radius: 5px;
+  box-shadow: darkmagenta 0 0 5px;
+}
+#snacks figure figcaption {
+  margin-top: 10px;
+  margin-left: 10px;
+  width: 80px;
+}
+/*              小吃              */
+.son_menu #hamburgs {
+  margin: 40px;
+  border-radius: 20px;
+  background-color: cornsilk;
+  display: flex;
+  flex-wrap: wrap;
+}
+#hamburgs figure {
+  padding-left: 30px;
+  margin: 40px;
+}
+
+#hamburgs figure img {
+  width: 108px;
+  height: 108px;
+  border-radius: 5px;
+  box-shadow: darkmagenta 0 0 5px;
+}
+#hamburgs figure figcaption {
+  margin-top: 10px;
+  margin-left: 10px;
+  width: 80px;
+}
